@@ -1,0 +1,15 @@
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.deps.json
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.runtimeconfig.json
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.runtimeconfig.dev.json
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.dll
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\obj\Debug\netcoreapp2.0\Employee.HolyDay.csprojResolveAssemblyReference.cache
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\obj\Debug\netcoreapp2.0\Employee.HolyDay.csproj.CoreCompileInputs.cache
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\obj\Debug\netcoreapp2.0\Employee.HolyDay.AssemblyInfoInputs.cache
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\obj\Debug\netcoreapp2.0\Employee.HolyDay.AssemblyInfo.cs
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.pdb
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\obj\Debug\netcoreapp2.0\Employee.HolyDay.dll
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\obj\Debug\netcoreapp2.0\Employee.HolyDay.pdb
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.Accounting.dll
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.Core.dll
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.Accounting.pdb
+C:\Users\Mkan\Source\Repos\Employee.HolyDay\Employee.HolyDay\bin\Debug\netcoreapp2.0\Employee.HolyDay.Core.pdb
