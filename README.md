@@ -30,34 +30,61 @@ IPaymentDateCalculator interface and using the information in below.
        }		
        
 Input and output						
+
 SalaryFrequency	Day	Week	Current Date	Next Salary Date (Output)	Comment	
+
 SpecificDayofMonth	12	0	8.07.2017	12.07.2017		
+
 SpecificDayofMonth	14	0	20.07.2017	14.08.2017		
+
 LastWorkingDayofMonth	0	0	8.06.2017	30.06.2017		
-LastWorkingDayofMonth	0	0	20.09.2017	29.09.2017		
+
+LastWorkingDayofMonth	0	0	20.09.2017	29.09.2017	
+
 DayBeforeLastWorkingDay	0	0	8.06.2017	29.06.2017		
+
 DayBeforeLastWorkingDay	0	0	20.09.2017	28.09.2017		
+
 FirstWorkingdayofMonth	0	0	8.06.2017	3.07.2017	1.10.2017 is Saturday. So, first working day of month should be calculated as 3.07.2017	
+
 FirstWorkingdayofMonth	0	0	1.10.2017	2.10.2017	1.10.2017 is Sunday. So, first working day of month should be calculated as 2.10.2017	
+
 FirstWorkingdayofMonth	0	0	1.08.2017	1.09.2017		
+
 FirstXDay	2	0	3.07.2017	4.07.2017		
+
 FirstXDay	2	0	6.07.2017	1.08.2017		
+
 FirstXDay	4	0	1.07.2017	6.07.2017		
+
 LastXDay	3	0	14.07.2017	26.07.2017		
+
 LastXDay	1	0	18.08.2017	28.08.2017		
+
 LastXDay	5	0	21.09.2017	29.09.2017		
+
 NthXDay	1	1	5.06.2017	3.07.2017		
+
 NthXDay	3	3	8.07.2017	19.07.2017		
+
 NthXDay	5	5	14.06.2017	30.06.2017		
+
 NthWeeksXDay	1	1	10.08.2017	throw NoSuchDateException	First week of september of 2017 does not have Monday. So throw an exception here	
+
 NthWeeksXDay	3	3	8.07.2017	12.07.2017		
+
 NthWeeksXDay	5	5	14.06.2017	30.06.2017		
+
+
 Problem 1 (Mandatory).						
-Create a class to calculate next salary dates						
+     Create a class to calculate next salary dates		
+     
 Problem 2 (Mandatory).						
-Write unit tests to validate output values which are given in table						
+     Write unit tests to validate output values which are given in table		
+     
 Problem 3 (Bonus).						
-1.   Use the calculator class in Web Api application and expose an endpoint which calculates and						
+    1.   Use the calculator class in Web Api application and expose an endpoint which calculates and						
 the next salary date of customer by using same request and response type with the						
 CalculateNextSalaryDate method.						
-2.   Install and Configure Swashbuckle.Core (Swagger) nuget library on your web api project.						
+
+    2.   Install and Configure Swashbuckle.Core (Swagger) nuget library on your web api project.						
