@@ -1,3 +1,10 @@
+dotnet restore
+
+dotnet run
+
+...
+
+
 # Finding-Next-Salary-Date-of-Customers
 
 
