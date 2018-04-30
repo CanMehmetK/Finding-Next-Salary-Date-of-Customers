@@ -1,17 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.HolyDay", "Employee.HolyDay\Employee.HolyDay.csproj", "{F191C2D7-9ED4-49F5-A3E7-DAFDB1370A09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.HolyDay", "Employee.HolyDay\Employee.HolyDay.csproj", "{F191C2D7-9ED4-49F5-A3E7-DAFDB1370A09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.HolyDay.Accounting", "Employee.HolyDay.Accounting\Employee.HolyDay.Accounting.csproj", "{F174571A-9938-4CBE-9D10-CFB5CE3F223D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.HolyDay.Accounting", "Employee.HolyDay.Accounting\Employee.HolyDay.Accounting.csproj", "{F174571A-9938-4CBE-9D10-CFB5CE3F223D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.HolyDay.Core", "Employee.HolyDay.Core\Employee.HolyDay.Core.csproj", "{8EC888DE-FF05-46EC-9B69-5F48E3FF7EF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.HolyDay.Core", "Employee.HolyDay.Core\Employee.HolyDay.Core.csproj", "{8EC888DE-FF05-46EC-9B69-5F48E3FF7EF0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9A782D21-7A7B-4897-B2CF-A259C7388BEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.HolyDay.Accounting.Tests", "Employee.HolyDay.Accounting.Tests\Employee.HolyDay.Accounting.Tests.csproj", "{95FB9495-5526-4E63-9776-0AA41FE6BA60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.HolyDay.Accounting.Tests", "Employee.HolyDay.Accounting.Tests\Employee.HolyDay.Accounting.Tests.csproj", "{95FB9495-5526-4E63-9776-0AA41FE6BA60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ooo", "ooo", "{384946B8-1370-4785-934B-3A662B33FC87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{41011BE0-69FF-49B3-BAEC-2B988FE1A4E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

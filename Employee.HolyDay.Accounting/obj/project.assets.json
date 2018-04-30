@@ -680,23 +680,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mkan\\.nuget\\packages\\": {},
+    "C:\\Users\\Danısman\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mkan\\Source\\Repos\\Employee.HolyDay\\Employee.HolyDay.Accounting\\Employee.HolyDay.Accounting.csproj",
+      "projectUniqueName": "C:\\sil\\Finding-Next-Salary-Date-of-Customers\\Employee.HolyDay.Accounting\\Employee.HolyDay.Accounting.csproj",
       "projectName": "Employee.HolyDay.Accounting",
-      "projectPath": "C:\\Users\\Mkan\\Source\\Repos\\Employee.HolyDay\\Employee.HolyDay.Accounting\\Employee.HolyDay.Accounting.csproj",
-      "packagesPath": "C:\\Users\\Mkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mkan\\Source\\Repos\\Employee.HolyDay\\Employee.HolyDay.Accounting\\obj\\",
+      "projectPath": "C:\\sil\\Finding-Next-Salary-Date-of-Customers\\Employee.HolyDay.Accounting\\Employee.HolyDay.Accounting.csproj",
+      "packagesPath": "C:\\Users\\Danısman\\.nuget\\packages\\",
+      "outputPath": "C:\\sil\\Finding-Next-Salary-Date-of-Customers\\Employee.HolyDay.Accounting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danısman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -704,19 +707,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dotnet.myget.org/F/aspnetcore-ci-dev/api/v3/index.json": {},
-        "https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json": {},
-        "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
-        "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {},
-        "https://www.myget.org/F/imagesharp/api/v3/index.json": {},
-        "https://www.myget.org/F/pomelo/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Mkan\\Source\\Repos\\Employee.HolyDay\\Employee.HolyDay.Core\\Employee.HolyDay.Core.csproj": {
-              "projectPath": "C:\\Users\\Mkan\\Source\\Repos\\Employee.HolyDay\\Employee.HolyDay.Core\\Employee.HolyDay.Core.csproj"
+            "C:\\sil\\Finding-Next-Salary-Date-of-Customers\\Employee.HolyDay.Core\\Employee.HolyDay.Core.csproj": {
+              "projectPath": "C:\\sil\\Finding-Next-Salary-Date-of-Customers\\Employee.HolyDay.Core\\Employee.HolyDay.Core.csproj"
             }
           }
         }
@@ -733,7 +730,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
