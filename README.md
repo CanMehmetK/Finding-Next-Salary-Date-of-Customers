@@ -5,7 +5,7 @@ dotnet run
 ...
 Finding Next Salary Date of Customers	<- :) Job Interview question was with this header ! Question was exactly same as below
 
-Solution in [https://github.com/CanMehmetK/Finding-Next-Salary-Date-of-Customers/blob/master/Employee.HolyDay.Accounting.Tests/PaymentDateCalculator.cs](Test)
+Solution in [Test](https://github.com/CanMehmetK/Finding-Next-Salary-Date-of-Customers/blob/master/Employee.HolyDay.Accounting.Tests/PaymentDateCalculator.cs)
 
 # Finding-Next-Salary-Date-of-Customers
 
